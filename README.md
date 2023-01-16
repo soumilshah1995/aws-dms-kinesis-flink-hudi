@@ -111,7 +111,7 @@ INSERT INTO sales_hudi (
 
 ```
 
-### Step 5 :  Start making changes to your sales tables and run python scripts 
+### Step 5 :  Start making changes to your sales tables and run python scripts make sure to add aws secret and access key in ENV Var or simply hard code it
 ```
 
 try:
